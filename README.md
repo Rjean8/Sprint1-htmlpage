@@ -18,7 +18,7 @@ p {color: purple;}
 
 <p>Welcome to Anime Central, the most popular anime community in the Bournemouth area.  If you love anime, comic-con, or are just interested in learning more take a look through our resources and maybe even come join one of our events.  No experience is necessary as we strive to ensure that anyone and everyone who wants to be involved can do so.</p>
 
-<p>Some of you may be wondering, what is anime? Anime is a style of animation (hence the name) that was developed in Japan.  Its characters typically have very large eyes, as well as very colorful clothing and hair.  Anime comes in many genres which allows it to cater to various age groups and personality types. 
+<p>Some of you may be wondering, what is anime? Anime is a style of animation (hence the name) that was developed in Japan.  Its characters typically have very large eyes, as well as very colorful clothing and hair.  Anime comes in many genres which allows it to cater to various age groups and personality types. </p>
 
 
 
