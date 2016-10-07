@@ -14,7 +14,7 @@ p {color: purple;}
 
 <body>
 <h1>Anime Central</h1>
-	<img src="http://i43.photobucket.com/albums/e374/NeoRyo/JapaneseAnime/Himouto/Himouto%20Umaru-chan%20-%20Episode%2006%20-%20Umaru%20lazy.gif" alt="Umaru-chan image" width = "400" height = "400"> </img>
+	<img src="http://i43.photobucket.com/albums/e374/NeoRyo/JapaneseAnime/Himouto/Himouto%20Umaru-chan%20-%20Episode%2006%20-%20Umaru%20lazy.gif">
 
 <p>Welcome to Anime Central, the most popular anime community in the Bournemouth area.  If you love anime, comic-con, or are just interested in learning more take a look through our resources and maybe even come join one of our events.  No experience is necessary as we strive to ensure that anyone and everyone who wants to be involved can do so.</p>
 
