@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html> 
+		
+	<head>
+		<title>Activities</title>
+
+	</head>
+	<body bgcolor = "#d6eaf8">
+		<h1>Anime Club Activities!!</h1>
+            <ul>
+                <li><a href="https://www.google.co.uk/" class="class1">Home Page</a></li>
+                <li><a href="https://www.google.co.uk/" class="class2">Activities</a></li>
+                <li><a href="https://www.google.co.uk/" class="class3">News</a></li>
+                <li><a href="https://www.google.co.uk/" class="class4">Club Shop</a></li>
+                <li><a href="Form.html" class="class1">Sign Up</a></li>
+            </ul>
+
+		
+
+		<h2> The Different Activities We Offer </h2>
+		<ul>
+			<li><p>Viewing Parties</p> <img src="images/SAO.jpg" width ="225px"> </li>
+			<li><p>Meet-ups</p><img src="images/umaru.jpg" width = "225px"></li>
+			<li><p>Cosplay Meet-ups</p><img src="images/SNK.jpg" width = "225px"> </li>
+		
+
+
+
+		<p>	<a href="http://en.wikipedia.org/wiki/Anime" >Here is a link to our Anime Masterlist</a> </p>
+		<img src="images/umaru2.jpg" width ="225px"; height="155px"/>
+
+	
+	</body>
+</html> 
+  
