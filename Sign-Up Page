@@ -1,0 +1,61 @@
+!DOCTYPE html>
+<html> 
+	<a href = "#"></a>
+	<head>
+		<title>Sign-Up Page</title>
+
+	</head>	
+
+	<body bgcolor = "#d6eaf8">
+	
+
+		<h1>Sign-Up</h1>
+
+            <ul>
+                <li><a href="https://www.google.co.uk/" class="class1">Home Page</a></li>
+                <li><a href="https://www.google.co.uk/" class="class2">Activities</a></li>
+                <li><a href="https://www.google.co.uk/" class="class3">News</a></li>
+                <li><a href="https://www.google.co.uk/" class="class4">Club Shop</a></li>
+                <li><a href="Form.html" class="class1">Sign Up</a></li>
+            </ul>
+
+
+ 
+		<h2> What Our Members Think: </h2>
+		<ul>
+			<li><p> Robert </p> <img src="images/naruto.jpg" width = "255px"> <p> This club is the best!! I made a TON of new friends and even discovered new anime to watch!! </p> </li>
+			<li> <p>Sam </p><img src="images/Aot.jpg" width = "255px"> <p> I've been watching anime for over ten years now so being able to watch it grow and show the 'younger generation' what it used to be like is great! I can even bring my kids with me! </p></li>
+			<li><p>Jamie </p> <img src="images/nozaki-kun.jpg" width = "255px"> <p> My friends made me come along with them to a viewing party and I hadn't watched much anime before but now I love it! I binge watch all the new seasons! </p></li>
+		</ul>
+		
+			
+			<p>Please enter your email address:</p>
+			<input id="email"  type="text" >
+			<p>Please enter your first name:</p>
+			<input id="FirstName" type="text">
+			<p>Please enter your last name:</p>
+			<input id="LastName" type="text">
+			<p>Please enter a password to sign in with:</p>
+			<input id="Password"  type="text">
+			<p>Please re-enter your password:</p>
+			<input id="Password2"  type="text">
+			<p> </p>
+			<button type="button" onclick="EnquireForm()">Submit</button>
+		
+			<p><a href="#" >Return to Top</a></p>
+	
+	</body>
+
+			
+	<script>
+		function EnquireForm(){
+	
+		var x = document.getElementById("FirstName").value;
+		var msg = "Thank you for entering your information, " + x + ", we will get back to you soon";
+		
+		alert(msg);
+	}
+	</script>
+	</body>
+</html> 
+  
