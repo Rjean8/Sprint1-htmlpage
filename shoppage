@@ -4,7 +4,7 @@
 		<title>The Anime Swag Collection</title>
 	</head>
 	
-	<body>
+	<body link="blue" bgcolor="#d6eaf8">
 	<h1 id="#top" align="center"><font face="century gothic" color="#073336">ANIME CENTRAL</font></h1>
 		<nav>
 			<p><font face="century gothic" color="#491964" size="4">
@@ -16,9 +16,9 @@
 				</font>
 			</p>
 		</nav>
-	</body>
+	
 
-	<body link="blue" bgcolor="#d6eaf8">
+	
 		
 		<h1 align="center">The Anime Swag Collection (AKA The Shop)</h1>
 			<p>While our club isn't quite large enough (yet!!) for us to have our own store what you will find here is a collection of products and online stores that members feel are epic and worth sharing.  If you see something you like just click on the picture to be taken to the store the member purchased from.  If you have some swag you think other members would like just shoot us an email with the info and we will make sure to get it posted.</p>
