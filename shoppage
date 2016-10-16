@@ -1,28 +1,29 @@
 <!Doctype html>
 <html>
-   <head>
-	<title>The Anime Swag Collection</title>
-   </head>
+	<head>
+		<title>The Anime Swag Collection</title>
+	</head>
 	
-   <body link="blue" bgcolor="#d6eaf8">
-		<h1 id="#top" align="center"><font face="century gothic" color="#073336">ANIME CENTRAL</font></h1>
-	<nav>
-		<p><font face="century gothic" color="#491964" size="4">
-		   <a href="animecentral.htm"><b>HOME</b></a>
-		   <a href="activities.htm"><b>ACTIVITIES</b></a>
-		   <a href="news.htm"><b>NEWS</b></a>
-		   <a href="shop.htm"><b>SHOP</b></a>
-		   <a href="signup.htm"><b>SIGN UP</b></a>
-		   </font>
-		</p>
-	</nav>
-    </body>
+	<body link="blue" bgcolor="#d6eaf8">
+	<h1 id="#top" align="center"><font face="century gothic" color="#073336">ANIME CENTRAL</font></h1>
+		<nav>
+			<p><font face="century gothic" color="#491964" size="4">
+				<a href="animecentral.htm"><b>HOME</b></a>
+				<a href="activities.htm"><b>ACTIVITIES</b></a>
+				<a href="news.htm"><b>NEWS</b></a>
+				<a href="shop.htm"><b>SHOP</b></a>
+				<a href="signup.htm"><b>SIGN UP</b></a>
+				</font>
+			</p>
+		</nav>
+	</body>
 
 	
 		
 		<h1 align="center">The Anime Swag Collection (AKA The Shop)</h1>
-		    <p>While our club isn't quite large enough (yet!!) for us to have our own store what you will find here is a collection of products and online stores that members feel are epic and worth sharing.  If you see something you like just click on the picture to be taken to the store the member purchased from.  If you have some swag you think other members would like just shoot us an email with the info and we will make sure to get it posted.</p>
+			<p>While our club isn't quite large enough (yet!!) for us to have our own store what you will find here is a collection of products and online stores that members feel are epic and worth sharing.  If you see something you like just click on the picture to be taken to the store the member purchased from.  If you have some swag you think other members would like just shoot us an email with the info and we will make sure to get it posted.</p>
 			
+			<!--sailormoon, attack on titan, sword art online, naruto-->
 	<br>
 	<br>
 		<aside>
@@ -34,33 +35,33 @@
 		</aside>
 		
 	    <!--Sailor Moon Swag Section-->	
-	<table border="2">
-  	<tr>
-      		<th colspan= "3">Sailor Moon</th>
-	</tr>  
-  	<tr>
-      	<th>Product</th>
-      	<th>Store Name</th>
-      	<th>Store Location</th>
- 	  </tr>
-  	  <tr>
+		<table border="2">
+  <tr>
+      <th colspan= "3">Sailor Moon</th>
+  
+  <tr>
+      <th>Product</th>
+      <th>Store Name</th>
+      <th>Store Location</th>
+  </tr>
+  <tr>
 		<td><a href="http://www.hottopic.com/product/sailor-moon-group-symbols-t-shirt/10310173.html" target="_blank"><img src="black_sailor_moon_shirt.jpeg" alt="Sailor Moon Group Symbols T-shirt" width="250px;" height="250px;"></a></td>
-		<td><a href="http://www.hottopic.com/product/sailor-moon-group-symbols-t-shirt/10310173.html" target="_blank">Hot Topic</a></td>
+		<td><a href="http://www.hottopic.com/" target="_blank">Hot Topic</a></td>
 		<td>United States</td>
-  	  </tr>
-  	  <tr>
-  		<td><a href=""http://www.hottopic.com/product/sailor-moon-attack-girls-raglan/10524805.html" target="_blank"><img src="Sailor_moon_raglan.jpeg" alt="Sailor Moon Raglan" height="250px;" width="250px;"></a></td>
+  </tr>
+  <tr>
+  		<td><a href="http://www.hottopic.com/product/sailor-moon-attack-girls-raglan/10524805.html" target="_blank"><img src="Sailor_moon_raglan.jpeg" alt="Sailor Moon Raglan" height="250px;" width="250px;"></a></td>
   		<td><a href="http://www.hottopic.com/" target="_blank">Hot Topic</a></td>
   		<td>United States</td>
-  	  </tr>
-  	  <tr>
+  </tr>
+  <tr>
   		<td><a href="https://www.amazon.co.uk/Sailor-Moon-Artemis-Figure-Collectors/dp/B01LX14CS4" target="_blank"><img src="Funko_Sailor_Venus_and_Artemis.jpeg" alt="Funko Sailor Venus & Artemis" height="250px;" width="250px;"><a></td>
   		<td><a href="https://www.amazon.co.uk//" target="_blank">Amazon</a></td>
   		<td>United Kingdom</td>
-  	  </tr>
+  </tr>
   
   		
-	</table>
+</table>
 		
 		<aside>
 		<!--ADVERTISEMENT FOR AMAZON-->
@@ -89,7 +90,7 @@
 		</tr>
 		<tr>
 			<td><a href="http://www.stylinonline.com/t-shirt-attack-on-titan-survey-corps.html" target="_blank"><img src="attack-on-titan-survey-corps-logo-t-shirt-4.jpg" alt="Attack on Titan Survey Corps Shirt" height="250px;" width="250px;"></a></td>
-			<td><a href="http://www.stylinonline.com/" target"_blank">Stylin Online</a></td>
+			<td><a href="http://www.stylinonline.com/" target="_blank">Stylin Online</a></td>
 			<td>United States</td>
 		</tr>
 		<tr>
@@ -121,11 +122,12 @@
 		 </tr>
 		 <tr>
 		 	<td><a href="https://www.amazon.co.uk/Dragon-Ball-Season-Daisuke-Nishio/dp/B007R39R5W" target="_blank"><img src="dragon_ball_z_dvd.jpg" width="250px;" height="250px;"></a></td>
-		 	<td><a href="https://www.amazon.co.uk/ref=nav_logo">Amazon</a></td>
+		 	<td><a href="https://www.amazon.co.uk/ref=nav_logo" target="_blank">Amazon</a></td>
 		 	<td>United Kingdom</td>
 		 </tr>
 		</table>
 		
+			
 			
 	<!--Naruto Swag Section-->		
 	<table border="2">
@@ -134,7 +136,7 @@
 		 </tr>
 		 <tr>
 		 	<td><a href="http://www.hottopic.com/product/naruto-itachi-clouds-t-shirt/10249277.html" target="_blank"><img src="Naruto_itachi_clouds_black_shirt.jpeg" width="250px;" height="250px;"></a></td>
-		 	<td><a href=""http://www.hottopic.com/" target="_blank">Hot Topic</a></td>
+		 	<td><a href="http://www.hottopic.com/" target="_blank">Hot Topic</a></td>
 		 	<td>United States</td>
 		 </tr>
 	</table>
