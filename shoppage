@@ -30,7 +30,7 @@
 		  <!--Advert for Anime Network-->
 					<h3 align="right"><b>Advertisements</b></h3>
 					<p><a href="http://www.hulu.com/network/anime-network">
-					<img src="anime_network_logo.jpeg" align="right">
+					<img src="anime_network_logo.jpeg" align="right" alt="Anime Network Logo">
 					</a></p>
 		</aside>
 		
@@ -55,7 +55,7 @@
   		<td>United States</td>
   </tr>
   <tr>
-  		<td><a href="https://www.amazon.co.uk/Sailor-Moon-Artemis-Figure-Collectors/dp/B01LX14CS4" target="_blank"><img src="Funko_Sailor_Venus_and_Artemis.jpeg" alt="Funko Sailor Venus & Artemis" height="250px;" width="250px;"><a></td>
+  		<td><a href="https://www.amazon.co.uk/Sailor-Moon-Artemis-Figure-Collectors/dp/B01LX14CS4" target="_blank"><img src="Funko_Sailor_Venus_and_Artemis.jpeg" alt="Funko Sailor Venus & Artemis" height="250px;" width="250px;"></a></td>
   		<td><a href="https://www.amazon.co.uk//" target="_blank">Amazon</a></td>
   		<td>United Kingdom</td>
   </tr>
@@ -67,7 +67,7 @@
 		<!--ADVERTISEMENT FOR AMAZON-->
 			<p>
 			<a href="https://www.amazon.co.uk/">
-			<img src="amazon_logo.jpeg" align="right">
+			<img src="amazon_logo.jpeg" align="right" alt="Amazon Logo">
 			</a>
 			</p>
 		</aside>
@@ -94,7 +94,7 @@
 			<td>United States</td>
 		</tr>
 		<tr>
-			<td><a href="http://www.thinkgeek.com/product/iljg/" target="_blank"><img src="attack_on_titan_green_hoodie.jpg" style="width:250px;height:250px;"></a></td>
+			<td><a href="http://www.thinkgeek.com/product/iljg/" target="_blank"><img src="attack_on_titan_green_hoodie.jpg" style="width:250px;height:250px;" alt="Attack On Titan Green Hoodie"></a></td>
 			<td><a href="http://www.thinkgeek.com/" target="_blank">Think Geek</a></td>
 			<td>United States</td>
 		</tr>
@@ -104,8 +104,8 @@
 			<td>United States</td>
 		</tr>
 		<tr>
-			<td><a href="https://www.dcbservice.com/product/feb152524/attack-on-titan-scout-corps-crew-socks-2pk-(c-1-1-2)" target="_blank"><img src="attack_on_titan_crew_socks.jpeg" width="250px;" height="250px;"></a></td>
-			<td><a href="https://www.dcbservice.com/home" target="_target">DCBS</a></td>
+			<td><a href="https://www.dcbservice.com/product/feb152524/attack-on-titan-scout-corps-crew-socks-2pk-(c-1-1-2)" target="_blank" ><img src="attack_on_titan_crew_socks.jpeg" width="250px;" height="250px;" alt="Attack On Titan Socks"></a></td>
+			<td><a href="https://www.dcbservice.com/home" target="_blank">DCBS</a></td>
 			<td>United States</td>
 		</tr>
 		</table>
@@ -116,12 +116,12 @@
 			<th colspan= "3">Dragon Ball Z</th>
 		 
 		 <tr>
-		 	<td><a href="http://www.hottopic.com/product/dragon-ball-z-goku-line-art-t-shirt/10373501.html?cgid=tees-anime-tees#start=8" target="_blank"><img src="dragon_ball_z_black_shirt.jpeg" width="250px;" height="250px;"></a></td>
+		 	<td><a href="http://www.hottopic.com/product/dragon-ball-z-goku-line-art-t-shirt/10373501.html?cgid=tees-anime-tees#start=8" target="_blank"><img src="dragon_ball_z_black_shirt.jpeg" width="250px;" height="250px;" alt="Dragon Ball Z Black Shirt"></a></td>
 		 	<td><a href="http://www.hottopic.com/" target="_blank">Hot Topic</a></td>
 		 	<td>United States</td>
 		 </tr>
 		 <tr>
-		 	<td><a href="https://www.amazon.co.uk/Dragon-Ball-Season-Daisuke-Nishio/dp/B007R39R5W" target="_blank"><img src="dragon_ball_z_dvd.jpg" width="250px;" height="250px;"></a></td>
+		 	<td><a href="https://www.amazon.co.uk/Dragon-Ball-Season-Daisuke-Nishio/dp/B007R39R5W" target="_blank"><img src="dragon_ball_z_dvd.jpg" width="250px;" height="250px;" alt="Dragon Ball Z DVD"></a></td>
 		 	<td><a href="https://www.amazon.co.uk/ref=nav_logo" target="_blank">Amazon</a></td>
 		 	<td>United Kingdom</td>
 		 </tr>
@@ -135,7 +135,7 @@
 			<th colspan= "3">Naruto</th>
 		 </tr>
 		 <tr>
-		 	<td><a href="http://www.hottopic.com/product/naruto-itachi-clouds-t-shirt/10249277.html" target="_blank"><img src="Naruto_itachi_clouds_black_shirt.jpeg" width="250px;" height="250px;"></a></td>
+		 	<td><a href="http://www.hottopic.com/product/naruto-itachi-clouds-t-shirt/10249277.html" target="_blank"><img src="Naruto_itachi_clouds_black_shirt.jpeg" width="250px;" height="250px;" alt="Naruto Itachi Clouds Shirt"></a></td>
 		 	<td><a href="http://www.hottopic.com/" target="_blank">Hot Topic</a></td>
 		 	<td>United States</td>
 		 </tr>
