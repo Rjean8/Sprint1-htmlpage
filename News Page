@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<a href = "#"></a>
+<head>
+
+<title> Anime Central - News </title>
+
+<meta charset="UTF-8">
+</head>
+<body>
+<h1 id="#top" align="center"><font face="century gothic" color="#073336">ANIME CENTRAL</font></h1>
+<nav>
+<p><font face="century gothic" color="#491964" size="4">
+<a href="animecentral.htm"><b>HOME</b></a>
+<a href="activities.htm"><b>ACTIVITIES</b></a>
+<a href="news.htm"><b>NEWS</b></a>
+<a href="shop.htm"><b>SHOP</b></a>
+<a href="signup.htm"><b>SIGN UP</b></a>
+</font>
+</p>
+</nav>
+</body>
+<body link="blue" bgcolor="#d6eaf8">
+
+<p align="center"><h1 align="left"> News </h1><font size="6">Everything that you need to know is here:</p>
+
+<ul>
+
+<li><h3> Naruto Shippuden Anime Debuts New 'Boyhood' Arc on October 20</h3>
+<img src="images/naruto2.jpg"width="200px" align="left" hspace="20"/> 
+
+<p><font size="5"> This year's 47th issue of Shueisha's Weekly Shonen Jump magazine is revealing on Monday the name of the new Naruto Shippūden arc that will premiere with 
+the anime's 480th episode (or 700th if you include the episode count of the original Naruto
+TV anime series). The new arc is titled "Shōnen Jidai-hen" (Boyhood Arc), and it will return to Naruto's childhood days when the Nine-Tails was still sealed within him. The 480th episode will focus on Naruto and Hinata, and will air on October 20.
+
+Anly will perform the series' new opening theme song "Kara no Kokoro" with the new arc, while the group Ayumikurikamaki will perform the ending theme song "Tabidachi no Uta" (Departure Song).
+
+The anime recently aired an hour-long special on September 29 with episodes 476 and 477 that featured the "last battle" between Sasuke and Naruto. As of the episode that aired 
+on October 6, the anime has covered up through the 698th chapter of Masashi Kishimoto's 700-chapter original manga.</p></li>
+
+
+<li><h3> This Week in Games - Dragon Quest Builders</h3>
+
+<img src="images/game.jpg"width="300px" hight="350px" align="right"/> 
+
+<p><font size="5"> Dustin digs in to the Minecraft-flavored crafting action of Dragon Quest Builders - and discovers
+ it's got a whole lot to like! PLUS:
+ Persona 5, Final Fantasy XV, Bloodstained and much more!
+<a href="http://www.animenewsnetwork.com/the-x-button/2016-10-13/this-week-in-games-dragon-quest-builders/.107585">
+ for more click here </a></p></li>
+<br>
+<br>
+
+<li><h3> Assassination Classroom GN 13 </h3><img src="images/AssClass.jpg" width="200px" align="left" hspace="30"/> 
+ 
+<p><font size="5"> The Grim Reaper has all of Class E in his grasp, and Irina is behaving a little strangely – is she done being the nice, albeit difficult, teacher the students have come to know? And will seeing the Grim Reaper in action help Nagisa to decide how he wants his future to go? His mother certainly has some ideas about that, and she's determined that Class E will play no part in her son's future. 
+Is it time for Nagisa to move on?</p></li>
+
+<br>
+<br>
+<br>
+<br>
+
+<li><h3>Tokyo Otaku Mode Launches Full-Graphic Evangelion Kimono Project </h3>
+
+<p>Retailer Tokyo Otaku Mode is taking feedback on designs for its Evangelion x Full Graphic Kimono project until October 31. 
+The project currently includes six possible designs to vote on, all featuring images from the Evangelion: 3.0 You Can (Not) Redo anime film. 
+The kimono design with the most votes will be turned into a 100-unit limited run exclusive to the store.</p>
+
+<img src="images/tokyo.jpg" width="300px" height="250px" align="right" hspace="20"/>
+<p>Designs feature characters Rei Ayanami, Asuka Langley Shikinami, Mari Illustrious Makinami, Shinji with Kaworu, the Eva units, and one design includes all the characters. 
+Each kimono is expected to cost US$2,000.
+The kimono will be produced by the Anything is Possible (AiP) team with dying work done by Osaka's Digina Company.</p>
+
+<p>Further announcements on the project will be made in November. Source: <a href="http://natalie.mu/comic/news/205534"> Natalie Comic</a></p>
+
+ </ul>
+ <p><a href="#" >Return to Top</a></p>
+</body>
+
+</html>
